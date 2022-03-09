@@ -1,0 +1,18 @@
+
+rssLimit = 20
+publishDate = ['publishDate', 'date']
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[permalinks]
+
+  posts = '/:year/:month/:day/:title/:slug/'
+
+  
+  [outputs]
+	home = [ "HTML"]
+	page = [ "HTML"]
+
+
+

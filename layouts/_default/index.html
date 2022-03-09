@@ -1,0 +1,6 @@
+{{ define "main" }}
+   {{with .Date }} {{ . | time.Format ":date_full"}}{{end}}
+	 {{range .Site.Languages}}
+	 		<a href="/{{.Lang}}">{{.}}</a>
+		{{end}}
+{{ end }}

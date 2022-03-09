@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello on </title>
+    <link>/fr-fr/posts/</link>
+    <description>Recent content in Hello on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Tue, 22 Feb 2022 06:50:00 -0800</lastBuildDate><atom:link href="/fr-fr/posts/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

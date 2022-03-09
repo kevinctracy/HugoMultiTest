@@ -1,0 +1,35 @@
+##These are languages to adde. 
+
+#    [languages.it]
+#        contentDir = 'content/posts/it-it'
+#        languageName = 'Italian'
+#        weight = 20
+    
+#    [languages.ja]
+#        contentDir = 'content/posts/ja-jp'
+#        languageName = 'Japanese'
+#        weight = 20
+#    [languages.ko]
+#        contentDir = 'content/posts/ko-kr'
+#        languageName = 'Korean'
+#        weight = 20
+#    [languages.pl]
+#        contentDir = 'content/posts/pl-pl'
+#        languageName = 'Polish'
+#        weight = 20
+#    [languages.ru]
+#        contentDir = 'content/posts/ru-ru'
+#        languageName = 'Russian'
+#        weight = 20
+#    [languages.th]
+#        contentDir = 'content/posts/th-th'
+#        languageName = 'Thai'
+#        weight = 20    
+##    [languages.tr]
+#        contentDir = 'content/posts/tr-tr'
+#        languageName = 'Turkish'
+#        weight = 20
+#    [languages.zh]
+#        contentDir = 'content/posts/zh-tw'
+#        languageName = 'Traditional Chinese'
+#        weight = 20

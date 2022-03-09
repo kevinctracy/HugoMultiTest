@@ -1,0 +1,8 @@
+defaultContentLanguage = 'fr-fr'
+contentDir = 'content/fr-fr'
+languageName = 'Français'
+weight = 20
+languageCode = 'fr-FR'
+
+[[Hardcoded]]
+languages = "lenguajes"

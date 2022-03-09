@@ -1,0 +1,4 @@
+[[main]]
+    name = 'Casa'
+    url = '/'
+    weight = 0
